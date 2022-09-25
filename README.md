@@ -2,7 +2,7 @@
 
 **Thesis: [Thesis](Tesi_Lazzari_Andrea_885250.pdf)**
 
-### _ " Il cambiamento è il risultato finale del vero_
+### _" Il cambiamento è il risultato finale del vero_
  
 ### _apprendimento: ogni volta che impariamo qualcosa di_
 
