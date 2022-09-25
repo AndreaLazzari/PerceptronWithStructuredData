@@ -3,9 +3,9 @@
 **Thesis: [Thesis](Tesi_Lazzari_Andrea_885250.pdf)**
 
 <div align="center"> " Il cambiamento è il risultato finale del vero </div>
- 
 <div align="center"> apprendimento: ogni volta che impariamo qualcosa di </div>
 <div align="center"> nuovo, noi stessi diventiamo qualcosa di nuovo "</div>
+
 
 
 I successi ottenuti dal machine learning nelle applicazioni sono molti e vanno
