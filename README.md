@@ -8,6 +8,7 @@
 
 
 
+
 I successi ottenuti dal machine learning nelle applicazioni sono molti e vanno
 spesso al di là della capacità di comprensione fornita dagli strumenti teorici
 attuali, specialmente riguardo le reti neurali. Negli ultimi quarant’anni la fisica,
@@ -72,7 +73,7 @@ gli input generati sono linearmente separabili. Con un’analisi statistica dei 
 ottenuto delle curve di apprendimento che si confrontano con i valori teorici a $n$ e $\rho$
 fissati:
 
-<center> <img src="Images/Plot_Riassunto.png" width=500/> </center>
+<div align="center"> <img src="Images/Plot_Riassunto.png" width=500/> </div>
 
 Le approssimazioni implicite nella teoria di campo medio sono irrilevanti nel
 limite termodinamico, cioè per dimensioni $n$ grandi.
