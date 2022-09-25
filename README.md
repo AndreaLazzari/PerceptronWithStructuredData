@@ -1,6 +1,6 @@
 # Analisi del Perceptron e della sua espressività nella classificazione di dati strutturati
 
-**Thesis: [Thesis](Tesi_Lazzari_Andrea_885250.pdf)**
+**Thesis PDF: [Thesis](Tesi_Lazzari_Andrea_885250.pdf)**
 
 <div align="center"> " Il cambiamento è il risultato finale del vero </div>
 <div align="center"> apprendimento: ogni volta che impariamo qualcosa di </div>
