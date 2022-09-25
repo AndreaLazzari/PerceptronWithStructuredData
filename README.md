@@ -1,5 +1,12 @@
 # Analisi del Perceptron e della sua espressività nella classificazione di dati strutturati
 
+**Thesis: [Thesis](Tesi_Lazzari_Andrea_885250.pdf)**
+
+$$ " Il cambiamento è il risultato finale del vero
+apprendimento: ogni volta che impariamo qualcosa di
+nuovo, noi stessi diventiamo qualcosa di nuovo " $$
+
+
 I successi ottenuti dal machine learning nelle applicazioni sono molti e vanno
 spesso al di là della capacità di comprensione fornita dagli strumenti teorici
 attuali, specialmente riguardo le reti neurali. Negli ultimi quarant’anni la fisica,
